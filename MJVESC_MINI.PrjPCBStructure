@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=mcu.SchDoc
+Record=SheetSymbol|SourceDocument=mcu.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=can.SchDoc|SymbolType=Normal|RawFileName=can.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mcu.SchDoc|Designator=DRV8301|SchDesignator=DRV8301|FileName=driver.SchDoc|SymbolType=Normal|RawFileName=driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
